@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarquezJones/configuring-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarquezJones/azure-network-protocols/blob/main/README.md)
 - <b>Virtual Private Network</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MarquezJones/setting-up-VPN)
+  - [VPN Setup in Virtual Machine](https://github.com/MarquezJones/setting-up-VPN)
 
 <h2>🤳Connect with me:</h2>
 
